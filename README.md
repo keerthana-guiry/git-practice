@@ -1,4 +1,4 @@
 # git-practice
-update README
+HI README
 README again
 hello from branch
